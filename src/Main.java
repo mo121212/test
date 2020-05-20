@@ -3,5 +3,6 @@ public class Main {
     {
         System.out.println("test");
         System.out.println("dev1");
+        System.out.println("master1");
     }
 }
